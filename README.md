@@ -25,5 +25,5 @@
 - Stanley Cup Playoffs (Oh Leafs No!)
 
 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/patel-dev/
-Email: devpateltech7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/patel-dev/
+- Email: devpateltech7@gmail.com
