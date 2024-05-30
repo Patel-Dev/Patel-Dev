@@ -5,7 +5,7 @@
 
 ### 🔭 What I'm up to right now...
 - Building my personal website!
-- Exploring competitive programming
+- Grinding competitive programming problems
 - Learning React, Tailwind, Three.js, Next.js
 - Prepping to study abroad in Paris!
 
