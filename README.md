@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Patel-Dev/Patel-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Patel-Dev/Patel-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 🔭 What I'm up to right now...
 - Building my personal website!
@@ -19,13 +19,11 @@
 - Completing the world's biggest full-stack web development bootcamp
 - Building various projects and pulling all nighters at hackathons during my free time
 
-- 💬 Ask me about ...
+💬 Ask me about ...
 - Cars
 - Fitness
 - Stanley Cup Playoffs (Oh Leafs No!)
 
-- 📫 How to reach me:
+📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/patel-dev/
 Email: devpateltech7@gmail.com
-
--->
