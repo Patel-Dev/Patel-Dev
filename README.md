@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey, what's up!
 
+The name's Dev! I'm a 3rd student pursuing a double-degree in Computer Science at UWaterloo and Business Administration at Wilfrid Laurier University! I love cars, keep up with sports (Hockey, Basketball, Soccer, Cricket), and am always down to get a pump in at the gym!
 <!--
 **Patel-Dev/Patel-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
