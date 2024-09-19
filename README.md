@@ -11,7 +11,7 @@ The name's Dev! I'm a 3rd student pursuing a double-degree in Computer Science a
 - Prepping to study abroad in Paris!
 
 ### ✨ What I've achieved previously
-- Building vehicle platforms @[AutoTrader](https://www.autotrader.ca/)
+- Building @[AutoTrader](https://www.autotrader.ca/)
 - Organizing, analyzing and visualizing data @[Motoinsight](https://www.motoinsight.com/)
 - Presenting internationally and leading humanitarian initiatives @[Canadian Open Learning Academy](https://www.linkedin.com/company/cola2020/)
 - Consulting for the UN, Instacart, and winning global hacakthons @[The Knowledge Society](https://www.tks.world/)
