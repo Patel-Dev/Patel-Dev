@@ -1,4 +1,4 @@
-## Hey, what's up?
+## Hi! 
 
 The name's Dev! I'm a 3rd student pursuing a double-degree in Computer Science at UWaterloo and Business Administration at Wilfrid Laurier University! I love cars, keep up with sports (MMA, Boxing, Hockey, Basketball, Soccer, Cricket), and am always down to get a pump in at the gym.
 <!--
